@@ -1,0 +1,6 @@
+#playerGuesses{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: flexbox;
+    align-items: center;
+    color: crimson;
+}
