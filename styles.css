@@ -1,6 +1,47 @@
+body{
+    background-color: black;
+    
+}
+
+h1{
+    color: orange;
+    background-color: black;
+    text-align: center;
+    font-size: 50px;
+}
+.board{
+   
+    background-color: black;
+    border: 1px solid;
+    justify-content: center;
+    width: 100%;
+    
+    
+
+}
+
+
 #playerGuesses{
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    display: flexbox;
+ 
+
+}
+
+#playerGuesses div{
+    display: flex;
+    background-color: orange;
+    text-align: center;
+    height: 300px;
+    border: 1px solid;
+    justify-content: center;
     align-items: center;
-    color: crimson;
+    font-weight: bold;
+    font-size: 40px;
+    font-family: 'Space Mono', monospace;
+}
+
+p {
+    font-weight: bold;
+    font-size: 40px;
+    font-family: 'Space Mono', monospace;
+    ;
 }
